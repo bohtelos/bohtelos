@@ -1,8 +1,10 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:1793D1,100:17E5E0&height=200&section=header&text=bohtelos&fontSize=60&fontColor=ffffff&fontAlignY=50)
 
-# [bohtelos]
+# bohtelos
 
-Aspiring systems programmer with a background in C and C++, currently focused on learning Rust. Interested in low-level programming and open-source software. Long-term goal is to build proficiency across Assembly, C, C++, and Rust in order to work confidently at the systems level, regardless of which language a given role or project requires.
+**Aspiring Systems Programmer**
+
+Background in C and C++, currently focused on learning Rust. Interested in low-level programming and open-source software. Long-term goal is to build proficiency across Assembly, C, C++, and Rust in order to work confidently at the systems level, regardless of which language a given role or project requires.
 
 ### Skills & Tools
 
